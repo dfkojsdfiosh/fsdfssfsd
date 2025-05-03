@@ -20,7 +20,7 @@ if not exist "%filePath%" (
 )
 
 :: Prepare message
-set message=Here you go king :pray:
+set message=@everyone https://tenor.com/view/drake-drake-computer-kill-your-self-gif-25432024
 
 :: Correcting the payload format
 set payload={\"content\":\"%message%\"}
